@@ -1,0 +1,2 @@
+# mystoreCC
+myStore gets automated
